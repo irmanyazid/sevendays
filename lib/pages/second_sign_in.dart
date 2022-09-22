@@ -19,7 +19,7 @@ class SecondSignIn extends StatelessWidget {
             children: [
               Center(
                 child: Image.asset(
-                  'assets/paper_icon.png',
+                  'assets/paper_illustration.png',
                   width: 245,
                   height: 279,
                 ),
