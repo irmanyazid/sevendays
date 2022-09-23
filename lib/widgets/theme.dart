@@ -4,6 +4,7 @@ import 'package:google_fonts/google_fonts.dart';
 Color blackColor = const Color(0xff0E1954);
 Color whiteColor = const Color(0xffFFFFFF);
 Color lightGrayColor = const Color(0xffF8F8F8);
+Color darkBlueColor = const Color(0xff1B1B33);
 
 //Empty State V1
 TextStyle boldTextStyle = GoogleFonts.poppins(
