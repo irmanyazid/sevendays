@@ -1,4 +1,4 @@
-import 'package:day1_splash_screen/pages/second_rating.dart';
+import 'package:day1_splash_screen/pages/first_pricing.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(const SevenDays());
@@ -10,7 +10,7 @@ class SevenDays extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: SecondRating(),
+      home: FirstPricing(),
     );
   }
 }
